@@ -1,4 +1,5 @@
 //vary + able = variable
+
 //numeric
 var price = 12;
 var age = 17;
